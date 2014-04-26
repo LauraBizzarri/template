@@ -20,12 +20,12 @@ header, main h1 {
 
 a, a:visited {
 	color:#483D8B;
-	text-decoration:none;
+	text-decoration:italic;
 }
 
 a:hover {
 	color: #483D8B;
-	text-decoration: italic;
+	text-decoration: none;
 }
 
 #nav {
