@@ -1,9 +1,10 @@
 body {
 	color: #483D8B;
 	background:#8FBC8F;
-	font-family:Verdana;
+	font-family:sans-serif;
 	width:960px;
 	margin:auto;
+	font-style:oblique;
 }
 
 
@@ -20,7 +21,7 @@ header, main h1 {
 
 a, a:visited {
 	color:#483D8B;
-	text-decoration:overline;
+	text-decoration:none;
 	font-weight: bold;
 	
 }
